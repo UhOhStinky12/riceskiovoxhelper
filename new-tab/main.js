@@ -8,7 +8,7 @@ import { BackgroundController } from "./background-controller.js";
 const WIFI_URL = "chrome://network/#select";
 const BLUETOOTH_URL = "chrome://bluetooth-pairing";
 const SETTINGS_URL = "chrome://settings";
-const NEW_TAB_URL = "chrome://new-tab-page";
+const NEW_TAB_URL = "https://google.com";
 const FILES_URL = "chrome://file-manager";
 const HELP_URL = "https://github.com/keenwarice/riceskiovoxhelper";
 const WEBSTORE_URL = "https://chromewebstore.google.com";
